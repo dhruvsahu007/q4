@@ -59,5 +59,3 @@ Tokenisation is evolving. New methods like SentencePiece and Unigram are making 
 Next time you use an AI tool, remember the hidden engine—tokenisation! If you're building with LLMs, experiment with different tokenisers and see how they affect your results. Have questions or want to share your experience? Tweet at me or leave a comment below!
 
 ---
-
-*This post was written with the help of ChatGPT for brainstorming and editing suggestions.* 
